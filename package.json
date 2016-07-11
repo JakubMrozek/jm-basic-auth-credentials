@@ -1,0 +1,30 @@
+{
+  "name": "jm-basic-auth-credentials",
+  "version": "1.0.0",
+  "description": "Get credentials from basic auth header",
+  "main": "index.js",
+  "engines": {
+    "node": "6.0.0"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakubMrozek/jm-basic-auth-credentials.git"
+  },
+  "keywords": [
+    "basic",
+    "auth",
+    "credentials"
+  ],
+  "author": "Jakub Mrozek <jakub.mrozek@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JakubMrozek/jm-basic-auth-credentials/issues"
+  },
+  "homepage": "https://github.com/JakubMrozek/jm-basic-auth-credentials#readme",
+  "devDependencies": {
+    "ava": "^0.15.2"
+  }
+}
